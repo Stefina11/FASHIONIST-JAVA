@@ -1,0 +1,4 @@
+Main-Class: javabasics.Application
+Class-Path: . javabasics/resource/
+
+
